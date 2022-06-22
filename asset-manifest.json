@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Curso_NS_Carrito_de_compras/static/css/main.e6c13ad2.css",
-    "main.js": "/Curso_NS_Carrito_de_compras/static/js/main.3caf517f.js",
+    "main.js": "/Curso_NS_Carrito_de_compras/static/js/main.e0709d38.js",
     "static/js/787.9ca5b63e.chunk.js": "/Curso_NS_Carrito_de_compras/static/js/787.9ca5b63e.chunk.js",
     "static/media/arbejas.jpg": "/Curso_NS_Carrito_de_compras/static/media/arbejas.02eb6bcd49ecfb2ade17.jpg",
     "static/media/lechuga.jpg": "/Curso_NS_Carrito_de_compras/static/media/lechuga.65345de1a92203421e4c.jpg",
     "static/media/tomate.jpg": "/Curso_NS_Carrito_de_compras/static/media/tomate.de015811b565e31600ef.jpg",
     "index.html": "/Curso_NS_Carrito_de_compras/index.html",
     "main.e6c13ad2.css.map": "/Curso_NS_Carrito_de_compras/static/css/main.e6c13ad2.css.map",
-    "main.3caf517f.js.map": "/Curso_NS_Carrito_de_compras/static/js/main.3caf517f.js.map",
+    "main.e0709d38.js.map": "/Curso_NS_Carrito_de_compras/static/js/main.e0709d38.js.map",
     "787.9ca5b63e.chunk.js.map": "/Curso_NS_Carrito_de_compras/static/js/787.9ca5b63e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3caf517f.js"
+    "static/js/main.e0709d38.js"
   ]
 }
