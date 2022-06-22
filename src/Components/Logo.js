@@ -1,9 +1,20 @@
-import React, { Component } from 'react'
+import { Component } from 'react'
 
-export default class Logo extends Component {
+const styles = {
+    logo: {
+        fontWeight: '700',
+        fontSize: '2rem',
+    }
+}
+
+class Logo extends Component {
     render() {
         return (
-            <div>Logo</div>
+            <div style={styles.logo}>
+                Shop
+            </div>
         )
     }
 }
+
+export default Logo

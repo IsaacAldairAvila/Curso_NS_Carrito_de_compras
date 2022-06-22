@@ -1,20 +1,21 @@
-import React, { Component } from 'react'
+import { Component } from 'react'
 
-export default class Button extends Component {
+const styles = {
+    button: {
+        backgroundColor: '#0A283E',
+        color: '#fff',
+        padding: '15px 20px',
+        border: 'none',
+        borderRadius: '5px',
+        cursor: 'pointer',
+    }
+}
+class Button extends Component {
     render() {
         return (
-            <button {...this.props}style={styles.button} />
+            <button style={styles.button} {...this.props} />
         )
     }
 }
 
-const styles = {
-    button:{
-        backgroundColor: '#0A283E',
-        color: '#FFF',
-        padding: '15px 20px',
-        border: 'none',
-        borderRadius: '5px',
-        cursor:'pointer',
-    }
-}
+export default Button

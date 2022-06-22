@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import { Component } from 'react'
 
 const styles = {
     layout: {
@@ -9,11 +9,11 @@ const styles = {
         flexDirection: 'column',
     },
     container: {
+        width: '100vw',
         maxWidth: '1200px',
-        width: '100%',
     }
 }
-export default class Layout extends Component {
+class Layout extends Component {
     render() {
         return (
             <div style={styles.layout}>
@@ -24,3 +24,5 @@ export default class Layout extends Component {
         )
     }
 }
+
+export default Layout
