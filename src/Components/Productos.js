@@ -1,6 +1,6 @@
 import { Component } from 'react'
 import Producto from './Producto'
-
+import React from 'react'
 const styles = {
     productos: {
         display: 'flex',

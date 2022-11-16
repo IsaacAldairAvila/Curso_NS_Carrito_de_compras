@@ -1,5 +1,5 @@
 import { Component } from 'react'
-
+import React from 'react'
 const styles = {
     logo: {
         fontWeight: '700',

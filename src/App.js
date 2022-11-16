@@ -1,11 +1,17 @@
+
+import React from 'react'
 import { Component } from 'react'
-import Productos from './components/Productos'
-import Layout from './components/Layout'
-import Navbar from './components/Navbar'
-import Title from './components/Title'
+// import Productos from './components/Productos'
+import Layout from './Components/Layout'
+import Navbar from './Components/Navbar'
+import Title from './Components/Title'
+import Productos from './Components/Productos'
+// import Navbar from './components/Navbar'
+// import Title from './components/Title'
 import tomate from './img/productos/tomate.jpg'
 import lechuga from './img/productos/lechuga.jpg'
 import arbejas from './img/productos/arbejas.jpg'
+
 class App extends Component {
   state = {
     productos: [

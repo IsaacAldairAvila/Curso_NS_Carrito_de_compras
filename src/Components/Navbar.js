@@ -1,7 +1,7 @@
 import { Component } from 'react'
 import Logo from './Logo'
 import Carro from './Carro'
-
+import React from 'react'
 const styles = {
     navbar: {
         display: 'flex',

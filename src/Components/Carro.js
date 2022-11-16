@@ -1,7 +1,7 @@
 import { Component } from 'react'
 import BubbleAlert from './BubbleAlert'
 import DetallesCarro from './DetallesCarro.js'
-
+import React from 'react'
 const styles = {
     carro: {
         backgroundColor: '#359A2C',
